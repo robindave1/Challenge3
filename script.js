@@ -57,7 +57,7 @@ var cities = [
 ];
 
 var openWeatherMapUrl = 'https://api.openweathermap.org/data/2.5/weather';
-var openWeatherMapUrlApiKey = '6a719e3c4dfb752cbb9fe577d9c14591';
+var openWeatherMapUrlApiKey = '72b177c7e8f6dacd24f039912666353f';
 
 map.on('load', function () {
   cities.forEach(function(city) {
